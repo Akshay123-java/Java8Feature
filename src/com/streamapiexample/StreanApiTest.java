@@ -14,6 +14,7 @@ public class StreanApiTest {
 		StreanApiTest st=new StreanApiTest();
 		st.ls=new ArrayList<>();
 		st.ls=Arrays.asList(a1);
+		
 		Stream< Integer> str=st.ls.stream().filter(pr->pr>30).filter(ad->ad%10==0);
        str.forEach(abc->System.out.println(abc));
 	}

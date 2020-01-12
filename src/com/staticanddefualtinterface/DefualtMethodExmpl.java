@@ -44,6 +44,7 @@ public class DefualtMethodExmpl implements Calculation {
 		System.out.println(a1.print());
 		
 		
+		
 		Calculation a2= ()->System.out.println("This is using lambda expretion ");
 		
 		a2.add();

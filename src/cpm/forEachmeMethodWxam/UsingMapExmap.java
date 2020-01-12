@@ -24,6 +24,7 @@ public class UsingMapExmap {
        System.out.println(a1.mp);
        
        
+       
        a1.mp.forEach((abc,xyz)->System.out.println(abc +"   " +xyz));
 		
 		
