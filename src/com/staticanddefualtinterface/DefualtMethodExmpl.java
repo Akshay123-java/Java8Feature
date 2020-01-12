@@ -8,6 +8,7 @@ interface Calculation{
 	default int print(){
 		int i=20;
 		int j=50;
+		
 		int k=i+j;
 		System.out.println("this is defualt print method of inteface calculation : "+k);
 	 return k;

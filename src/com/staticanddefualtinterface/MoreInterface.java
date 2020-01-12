@@ -4,6 +4,7 @@ interface Demo{
 	
 	public void call();
 	
+	
 	public default void script(){
 		
 		

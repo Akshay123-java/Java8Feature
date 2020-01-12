@@ -11,6 +11,7 @@ public class UsingMapExmap {
 		// TODO Auto-generated method stub
    
 		UsingMapExmap a1=new UsingMapExmap();
+		
 		a1.mp=new HashMap<>();
        a1.mp.put("akshay",101);	
        a1.mp.put("Rajkumar",102);	

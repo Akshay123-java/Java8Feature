@@ -10,10 +10,13 @@ public class JavaForEachExample {
 	List<String> exmp;
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
         String[] x={"Xye" ,"pqr" ,"mno" ,"str"};
+        
 		
 		JavaForEachExample js=new JavaForEachExample();
+		
 		js.exmp= new ArrayList<>();
 	//	js.exmp=Arrays.asList(x);
 		js.exmp.add("Akshay");
