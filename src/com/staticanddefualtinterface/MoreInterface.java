@@ -60,7 +60,6 @@ public class MoreInterface  implements Demo ,Test{
 		Demo.print(10);
 		
 		
-		
 		Test a2=()->System.out.println("TTh9s is abstract methd of resr interface");
 		a2.call();
 		

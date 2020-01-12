@@ -11,6 +11,7 @@ public class StreanApiTest {
 	public static void main(String[] args) {
 		
 		Integer[] a1={10,20,30,40,50,60,70,75,86,89};
+		
 		StreanApiTest st=new StreanApiTest();
 		st.ls=new ArrayList<>();
 		st.ls=Arrays.asList(a1);

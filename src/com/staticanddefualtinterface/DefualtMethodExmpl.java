@@ -37,6 +37,7 @@ public class DefualtMethodExmpl implements Calculation {
 				System.out.println("this is in inline function implementation of method");
 				
 			}
+			
 		};
 
 		a1.add();

@@ -16,6 +16,7 @@ public class UsingMapExmap {
        a1.mp.put("Rajkumar",102);	
        a1.mp.put("Chidre",103);	
        a1.mp.put("Gopal",104);	
+       
        a1.mp.put("Mohanish",105);	
        a1.mp.put("Bhoyer",106);	
        a1.mp.put("Bhoyer",107);	
