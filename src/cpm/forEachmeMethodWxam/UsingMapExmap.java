@@ -22,6 +22,7 @@ public class UsingMapExmap {
        a1.mp.put("Bhoyer",107);	
        
        System.out.println(a1.mp.size());
+       
        System.out.println(a1.mp);
        
        

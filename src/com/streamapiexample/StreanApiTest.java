@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 
 public class StreanApiTest {
 
+	
 	List <Integer> ls;
 	public static void main(String[] args) {
 		

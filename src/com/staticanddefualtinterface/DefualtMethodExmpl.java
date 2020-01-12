@@ -42,6 +42,7 @@ public class DefualtMethodExmpl implements Calculation {
 
 		a1.add();
 		a1.print();
+		
 		System.out.println(a1.print());
 		
 		
